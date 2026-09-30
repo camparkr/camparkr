@@ -1,5 +1,8 @@
 # Cam Parker
 
+Tech-tragic, mashup-maniac, digital Renaissance glutton. Living between Greek myth and the Internet.
+Opinions rarely original.
+
 I build tools for AI agents, mostly skills that let you check an agent's work before anyone relies on it.
 
 Current public work:
